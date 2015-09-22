@@ -1,6 +1,6 @@
 {
   "name": "json-response-checker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check the JSON response of a URL once or continuously with a timeout (e.g. to verify a deployment)",
   "main": "index.js",
   "scripts": {
