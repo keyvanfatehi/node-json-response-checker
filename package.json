@@ -1,13 +1,21 @@
 {
   "name": "json-response-checker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Check the JSON response of a URL once or continuously with a timeout (e.g. to verify a deployment)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keyvanfatehi/node-json-response-checker.git"
+  },
+  "author": "Keyvan Fatehi <keyvanfatehi@gmail.com>",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keyvanfatehi/node-json-response-checker/issues"
+  },
+  "homepage": "https://github.com/keyvanfatehi/node-json-response-checker#readme",
   "dependencies": {
     "needle": "^0.10.0"
   }
